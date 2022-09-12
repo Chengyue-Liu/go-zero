@@ -11,5 +11,5 @@ func main() {
 	logx.Disable()
 	load.Disable()
 	cmd.Execute()
-	gogogo.hello()
+	gogogo.Hello()
 }
